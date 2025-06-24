@@ -1,0 +1,308 @@
+{
+  "users": [
+    {
+      "username": "testuser",
+      "email": "test@example.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "username": "testadmin",
+      "email": "baodz@gmail.com",
+      "password": "123456",
+      "avatar": "/images/default-avatar.png",
+      "id": 1750499295875,
+      "role": "admin"
+    },
+    {
+      "username": "test1",
+      "email": "thangtb00458@fpt.edu.vn",
+      "password": "112233",
+      "avatar": "/images/default-avatar.png",
+      "id": 1750694094484,
+      "role": "user"
+    },
+    {
+      "username": "BinhTrung",
+      "email": "giabaodz76@gmail.com",
+      "phone": "1111111111",
+      "birthday": "2008-01-05",
+      "password": "123456",
+      "avatar": "/images/default-avatar.png",
+      "id": 1750737578993,
+      "role": "user"
+    },
+    {
+      "username": "BinhGas",
+      "email": "binhgas@gmail.com",
+      "phone": "0828747145",
+      "birthday": "2003-09-04",
+      "password": "1",
+      "avatar": "/images/default-avatar.png",
+      "id": 1750748393655,
+      "role": "user"
+    },
+    {
+      "username": "N.G.Bao",
+      "email": "giabaodepzai77@gmail.com",
+      "phone": "123456789",
+      "birthday": "2006-06-05",
+      "password": "123456",
+      "avatar": "/images/default-avatar.png",
+      "id": 1750766896586,
+      "role": "user"
+    }
+  ],
+  "posts": [
+    {
+      "title": "Công Nghệ AI Phát Triển",
+      "content": "Trí tuệ nhân tạo đang thay đổi thế giới từng ngày.",
+      "imageUrl": "/uploads/images/1750671675528-z6716506010317_41fb19584cac5b39030511713a3882a0.jpg",
+      "videoUrl": "",
+      "tag": "Công Nghệ",
+      "author": "BonLinh",
+      "id": 1750671676582,
+      "showFull": false,
+      "showComments": false,
+      "showCommentBox": false,
+      "comment": "",
+      "comments": [],
+      "likes": 8,
+      "dislikes": 0,
+      "userLiked": [
+        "testadmin"
+      ],
+      "userDisliked": []
+    },
+    {
+      "title": "binh",
+      "content": "1",
+      "imageUrl": "/uploads/images/1750672320078-áº¢nh chá»¥p mÃ n hÃ¬nh 2025-05-23 084333.png",
+      "videoUrl": "",
+      "tag": "Ẩm Thực",
+      "author": "BonLinh",
+      "id": 1750672321385,
+      "userLiked": [
+        "testadmin"
+      ],
+      "userDisliked": [],
+      "likes": 1,
+      "dislikes": 0
+    },
+    {
+      "title": "1232131",
+      "content": "1232131233",
+      "imageUrl": "",
+      "videoUrl": "",
+      "tag": "Ẩm Thực",
+      "author": "testadmin",
+      "id": 1750692124890,
+      "userLiked": [
+        "testadmin"
+      ],
+      "userDisliked": [],
+      "likes": 1,
+      "dislikes": 0
+    },
+    {
+      "title": "1",
+      "content": "1",
+      "imageUrl": "/uploads/images/1750740936258-Chihuahua.jpg",
+      "videoUrl": "",
+      "tag": "Du Lịch",
+      "author": "testadmin",
+      "createdAt": "2025-06-24T04:55:38.297Z",
+      "id": 1750740938315
+    },
+    {
+      "title": "123",
+      "content": "1",
+      "imageUrl": "/uploads/images/1750744442311-LeeMinHo_FPT.jpg",
+      "videoUrl": "",
+      "tag": "Du Lịch",
+      "author": "testadmin",
+      "createdAt": "2025-06-24T05:54:03.613Z",
+      "id": 1750744443617
+    },
+    {
+      "title": "1",
+      "content": "23",
+      "imageUrl": "",
+      "videoUrl": "",
+      "tag": "Du Lịch",
+      "author": "testadmin",
+      "createdAt": "2025-06-24T05:57:48.070Z",
+      "id": 1750744668076
+    },
+    {
+      "title": "2314",
+      "content": "12",
+      "imageUrl": "/uploads/images/1750747449023-Chihuahua.jpg",
+      "videoUrl": "",
+      "tag": "Công Nghệ",
+      "author": "testadmin",
+      "createdAt": "2025-06-24T06:44:09.881Z",
+      "id": 1750747449888
+    },
+    {
+      "title": "341515",
+      "content": "eg",
+      "imageUrl": "/uploads/images/1750747457997-image.png",
+      "videoUrl": "",
+      "tag": "Công Nghệ",
+      "author": "testadmin",
+      "createdAt": "2025-06-24T06:44:29.195Z",
+      "id": 1750747469200
+    }
+  ],
+  "comments": [
+    {
+      "postId": 1750390615985,
+      "content": "OcL",
+      "author": "testuser",
+      "createdAt": "2025-06-20T03:39:36.107Z",
+      "id": 1750390776111,
+      "parentId": null,
+      "replies": []
+    },
+    {
+      "postId": 1750391646032,
+      "content": "kien ngu\n",
+      "author": "testuser",
+      "createdAt": "2025-06-20T03:54:20.924Z",
+      "id": 1750391660932,
+      "parentId": null,
+      "replies": []
+    },
+    {
+      "postId": 1750390615985,
+      "content": "sadasdas",
+      "author": "Ẩn danh",
+      "createdAt": "2025-06-22T14:39:12.362Z",
+      "id": 1750603152366,
+      "parentId": null,
+      "replies": []
+    },
+    {
+      "postId": 1750390615985,
+      "content": "123",
+      "author": "testuser",
+      "createdAt": "2025-06-23T02:34:47.433Z",
+      "id": 1750646087437,
+      "parentId": null,
+      "replies": []
+    },
+    {
+      "postId": 1750671676582,
+      "content": "asda",
+      "author": "testadmin",
+      "createdAt": "2025-06-23T14:03:11.186Z",
+      "id": 1750687391203,
+      "parentId": null,
+      "replies": []
+    },
+    {
+      "postId": 1750671676582,
+      "content": "asdisauhodhoua",
+      "author": "testadmin",
+      "createdAt": "2025-06-23T14:03:15.512Z",
+      "id": 1750687395508,
+      "parentId": null,
+      "replies": []
+    },
+    {
+      "postId": 1750671676582,
+      "content": "sadasdasd",
+      "author": "testadmin",
+      "createdAt": "2025-06-23T14:23:22.220Z",
+      "id": 1750688602225,
+      "parentId": null,
+      "replies": []
+    },
+    {
+      "postId": 1750671676582,
+      "content": "alo alo",
+      "author": "testadmin",
+      "createdAt": "2025-06-24T04:01:46.312Z",
+      "id": 1750737706321,
+      "parentId": null,
+      "replies": []
+    },
+    {
+      "postId": 1750671676582,
+      "content": "ngon\n",
+      "author": "testadmin",
+      "createdAt": "2025-06-24T04:06:11.411Z",
+      "id": 1750737971416,
+      "parentId": null,
+      "replies": []
+    },
+    {
+      "postId": 1750671676582,
+      "parentId": 1750687391203,
+      "content": "1",
+      "author": "testadmin",
+      "createdAt": "2025-06-24T05:29:44.138Z",
+      "id": 1750742984142,
+      "replies": []
+    },
+    {
+      "postId": 1750671676582,
+      "parentId": 1750687391203,
+      "content": "1",
+      "author": "testadmin",
+      "createdAt": "2025-06-24T05:29:49.555Z",
+      "id": 1750742989558,
+      "replies": []
+    },
+    {
+      "postId": 1750671676582,
+      "parentId": 1750687391203,
+      "content": "123",
+      "author": "testadmin",
+      "createdAt": "2025-06-24T05:29:55.296Z",
+      "id": 1750742995299,
+      "replies": []
+    },
+    {
+      "postId": 1750671676582,
+      "parentId": 1750687391203,
+      "content": "Đây là reply test",
+      "author": "testadmin",
+      "createdAt": "2025-06-24T06:00:00.000Z",
+      "id": 1750743000000,
+      "replies": []
+    },
+    {
+      "postId": 1750671676582,
+      "parentId": 1750687391203,
+      "content": "1",
+      "author": "testadmin",
+      "createdAt": "2025-06-24T05:48:33.852Z",
+      "id": 1750744113856
+    },
+    {
+      "postId": 1750744443617,
+      "content": "1",
+      "author": "testadmin",
+      "createdAt": "2025-06-24T05:54:25.349Z",
+      "id": 1750744465352
+    },
+    {
+      "postId": 1750744443617,
+      "parentId": 1750744465352,
+      "content": "2",
+      "author": "testadmin",
+      "createdAt": "2025-06-24T05:54:28.278Z",
+      "id": 1750744468280
+    },
+    {
+      "postId": 1750671676582,
+      "parentId": 1750744113856,
+      "content": "1",
+      "author": "testadmin",
+      "createdAt": "2025-06-24T05:58:03.841Z",
+      "id": 1750744683845
+    }
+  ]
+}
